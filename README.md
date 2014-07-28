@@ -8,6 +8,8 @@
 * Visit us in [GitHub](https://github.com/develasquez/monomer) 
 
 
-## How to Use
-1 - 
+## STATE
+1 - Under development.
 
+## Contribute
+* Please leave a comment if you want to contribute to this project.
