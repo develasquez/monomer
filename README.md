@@ -9,11 +9,13 @@
 ### Header
 
 The __Header__ element is very easy to use, you only need to create a div or header element and add the "__header__" class.
+
 ```HTML
 	<header class="header red">
     </header>
 ```
 You can add accions elements like Menu button , a title or a context menu.
+
 ´´´´HTML	
 	<div class="header red z-d1">
         <button class="expand-LeftMenu button-left icon-bars icon-1x icon-white" arrows-alt></button>
@@ -36,9 +38,11 @@ This element is placed at the top of your page.
 ### Footer
 	
 The __Footer__ is very easy too.
-	
+
+```HTML 	
 	<footer class="footer background_control">
 	</footer>
+```
 
 The __Footer__ element is so amazing, because, it have a hidden content, this is displayed at swipe-up from the footer or clicking over an element with the class "__expand-Footer__"
 
@@ -147,10 +151,12 @@ The pages are a simple way to manage logically the content of your app, a page u
 Basically the next kind of buttons.
 
 `Raised Buttons`
+
 ```HTML
     <button class="raised-button red color-white ">Crear</button>
 ```
 `Floating Button`
+
 ```HTML
     <button class="floating-button floating-down-right red">
         <i class="icon-plus icon-white"></i>
