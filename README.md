@@ -1,4 +1,4 @@
-![monomer logo](http://desamovil.cl:81/design/img/monomer.png)
+![monomer logo](https://raw.githubusercontent.com/develasquez/monomer/master/monomer.svg)
 ## monomer
 
 * The easy way to increase the usability of your web project, based on Google polymer-project.
