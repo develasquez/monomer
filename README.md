@@ -16,7 +16,7 @@ The __Header__ element is very easy to use, you only need to create a div or hea
 ```
 You can add accions elements like Menu button , a title or a context menu.
 
-´´´HTML	
+```HTML
 <div class="header red z-d1">
     <button class="expand-LeftMenu button-left icon-bars icon-1x icon-white" arrows-alt></button>
     <h3 class="color-white">My App</h3>
@@ -31,7 +31,7 @@ You can add accions elements like Menu button , a title or a context menu.
         </ul>
     </div>
 </div>
-´´´
+```
 
 This element is placed at the top of your page.
 
@@ -62,7 +62,7 @@ The __Footer__ element is so amazing, because, it have a hidden content, this is
 ```
 ### Menus
 
-`Left Menu`, to expand the left menu you must to add a element with the "__expand-LeftMenu__" class, for example add this in the _header_ element.
+`Left Menu`, to expand the left menu you must to add an element with the "__expand-LeftMenu__" class, for example add this in the _header_ element.
 
 ```HTML
 <nav class="leftMenu z-d1 background_control">
@@ -83,7 +83,7 @@ The __Footer__ element is so amazing, because, it have a hidden content, this is
     </ul>
 </nav>
 ```
-`Right Menu`, to expand the right menu you must to add a element with the "__expand-RightMenu__" class, for example add this in the _header_ element.
+`Right Menu`, to expand the right menu you must to add an element with the "__expand-RightMenu__" class, for example add this in the _header_ element.
 
 ```HTML
 <nav class="rightMenu z-d1 background_control">
@@ -105,7 +105,7 @@ The __Footer__ element is so amazing, because, it have a hidden content, this is
 </nav>
 ```
 
-`Config Menu`, to expand the context menu you must to add a element with the __ target __="_#ctxMnu_" attribute including the css selector to refer the context menu element.
+`Config Menu`, to expand the context menu you must to add an element with the __ target __="_#ctxMnu_" attribute including the css selector to refer the context menu element.
 
 ```HTML
 <button class="expand-config button-right icon-ellipsis-v icon-1x icon-white" target="#ctxMnu"></button>
