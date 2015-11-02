@@ -1,7 +1,7 @@
 ![monomer logo](https://raw.githubusercontent.com/develasquez/monomer/master/monomer.svg)
 ## monomer
 
-* The easy way to increase the usability of your web project, based on Google polymer-project.
+* The easy way to increase the usability of your web project, based on Google Material Design Concept.
 * Transforming a simple HTML tag into an experience just by adding one CSS Class.
 
 ## Components
